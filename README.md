@@ -1,4 +1,4 @@
-def calculator():
+def calculato():
     print("=== Smart Python Calculator ===")
     print("Operations: +  -  *  /")
 
